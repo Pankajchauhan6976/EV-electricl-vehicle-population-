@@ -1,6 +1,6 @@
 ---
 
-**SQL Project: Sales Trends and Customer Demographic Analysis [Drive Link]**
+**SQL Project: Sales Trends and Customer Demographic Analysis
 
 **Key Findings:**
 - **Sales Trends:** Analyzed and identified key sales trends to optimize inventory and marketing strategies.
