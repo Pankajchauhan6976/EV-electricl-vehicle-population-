@@ -1,4 +1,4 @@
----
+
 
 **SQL Project: Sales Trends and Customer Demographic Analysis
 
